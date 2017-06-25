@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CodeHub</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    //Video titles
+    <string name="title1">Highway To Hell</string>
+    <string name="title2">Nothing Else Matters</string>
+    <string name="title3">Boulevard Of Broken Dreams</string>
+    <string name="title4">Purple Haze</string>
+    <string name="title5">Smoke On The Water</string>
+
+    //Video artists
+    <string name="artist1">Ac/Dc</string>
+    <string name="artist2">Metallica</string>
+    <string name="artist3">Green Day</string>
+    <string name="artist4">Jimi Hendrix</string>
+    <string name="artist5">Deep Purple</string>
+
+    //Video watch history
+    <string name="time1">1 Hour Ago</string>
+    <string name="time2">14 Hours Ago</string>
+    <string name="time3">5 Hours Ago</string>
+    <string name="time4">2 Months Ago</string>
+    <string name="time5">7 Days Ago</string>
+</resources>
